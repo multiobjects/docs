@@ -1,5 +1,10 @@
 # docs - about Multiobjects
 
+In general, "multi-objects" can refer to multiple instances of an object. This could be anything such as multiple instances of a class in Object-Oriented Programming (OOP), multiple objects in a graphical user interface, etc.
+
+When using it in the context of file data formats, "multi-objects" could refer to multiple data objects stored sequentially or in an array-like structure in a file. Especially in your case of a newline delimited objects file format (NDOF), it could mean that multiple such objects exist in the data file, each separated by a newline. 
+
+However, the actual meaning can vary based on context and the specific implementation, so it's always a good idea to define such terms within your project or documentation.
 
 
 
